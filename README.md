@@ -8,7 +8,7 @@
 ### Установка
 Программа предназначена для установки с помощью утилит make и qmake.
 ```
-git clone https://github.com/abceff/3DViewer.git
+git clone git@github.com:Dalkory/3DViewer_on_C.git
 cd 3DViewer/src
 make install
 ```
